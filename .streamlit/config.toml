@@ -1,0 +1,7 @@
+
+[theme]
+primaryColor = "#004085"                 # Subdued blue for primary elements
+backgroundColor = "#FFFFFF"               # Clean white background for readability
+secondaryBackgroundColor = "#F8F9FA"      # Light grey for sections
+textColor = "#212529"                     # Dark grey for text clarity
+font = "sans serif"
